@@ -52,7 +52,7 @@ u8 DIO_u8GetPinValue	(u8 LOC_u8Port,u8 LOC_u8Pin);
 /**	Functionality	: Get the Value of specific pin at run time	    **/
 /*****************************************************************************/
 /*****************************************************************************/
-void DIO_u8TogglePinValue   	(u8 LOC_u8Port,u8 LOC_u8Pin)
+void DIO_u8TogglePinValue   	(u8 LOC_u8Port,u8 LOC_u8Pin);
 /*****************************************************************************/
 /*****************************************************************************/
 /**	Function Name	: DIO_enuTogglePinValue.								**/
