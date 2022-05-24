@@ -1,3 +1,4 @@
+//tyoedef of data type
 typedef unsigned short int u16;
 typedef unsigned long int u32;
 typedef signed short int s16;
